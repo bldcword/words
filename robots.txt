@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://swaggerwords.win/sitemap.xml
