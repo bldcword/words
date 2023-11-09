@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://swaggerwords.win/en/</loc>
+    <loc>https://swaggerwords.win/zh-hant/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -10,16 +10,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant"
-                href="https://swaggerwords.win/zh-hant/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://swaggerwords.win/en/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://swaggerwords.win/zh-hant/"
+                />
   </url><url>
-    <loc>https://swaggerwords.win/en/page/</loc>
+    <loc>https://swaggerwords.win/zh-hant/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -27,33 +27,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant"
-                href="https://swaggerwords.win/zh-hant/page/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://swaggerwords.win/en/page/"
                 />
-  </url><url>
-    <loc>https://swaggerwords.win/en/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://swaggerwords.win/search/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://swaggerwords.win/zh-hant/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://swaggerwords.win/en/search/"
+                href="https://swaggerwords.win/zh-hant/page/"
                 />
   </url><url>
-    <loc>https://swaggerwords.win/en/tags/</loc>
+    <loc>https://swaggerwords.win/zh-hant/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -61,13 +44,30 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://swaggerwords.win/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-hant"
                 href="https://swaggerwords.win/zh-hant/tags/"
+                />
+  </url><url>
+    <loc>https://swaggerwords.win/zh-hant/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://swaggerwords.win/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://swaggerwords.win/en/tags/"
+                href="https://swaggerwords.win/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://swaggerwords.win/zh-hant/search/"
                 />
   </url>
 </urlset>

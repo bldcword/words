@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>🏷️Tags on Swagger Words</title>
-    <link>https://swaggerwords.win/tags/</link>
-    <description>Recent content in 🏷️Tags on Swagger Words</description>
-    <image>
-      <title>Swagger Words</title>
-      <url>https://swaggerwords.win/papermod-cover.png</url>
-      <link>https://swaggerwords.win/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://swaggerwords.win/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>English</title>
-      <link>https://swaggerwords.win/tags/english/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swaggerwords.win/tags/english/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 摆烂单词</title>
+        <link>https://swaggerwords.win/tags/</link>
+        <description>Recent content in Tags on 摆烂单词</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-hans</language><atom:link href="https://swaggerwords.win/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>英➡️汉</title>
+        <link>https://swaggerwords.win/tags/%E8%8B%B1%EF%B8%8F%E6%B1%89/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://swaggerwords.win/tags/%E8%8B%B1%EF%B8%8F%E6%B1%89/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

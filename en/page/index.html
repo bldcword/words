@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-    <head>
-	<meta name="generator" content="Hugo 0.119.0"><meta charset='utf-8'>
+    <head><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Learn vocabulary with Swagger Words!'>
-<title>SWAGGERWORDS | SWAGTIONARY</title>
+<title>Pages | SWAGTIONARY</title>
 
-<link rel='canonical' href='https://swaggerwords.win/en/'>
+<link rel='canonical' href='https://swaggerwords.win/en/page/'>
 
 <link rel="stylesheet" href="/scss/style.min.f2778fe6d448896ce43ef887e4847e2ceefb10ab0e0d105422cc39eb790f6e20.css"><script>
     document.oncontextmenu = function(){ return false; };
@@ -37,13 +36,13 @@
       });
      });
     });
-    </script><meta property='og:title' content='SWAGGERWORDS'>
+    </script><meta property='og:title' content='Pages'>
 <meta property='og:description' content='Learn vocabulary with Swagger Words!'>
-<meta property='og:url' content='https://swaggerwords.win/en/'>
+<meta property='og:url' content='https://swaggerwords.win/en/page/'>
 <meta property='og:site_name' content='SWAGGERWORDS'>
 <meta property='og:type' content='website'>
-<meta name="twitter:title" content="SWAGGERWORDS">
-<meta name="twitter:description" content="Learn vocabulary with Swagger Words!"><link rel="alternate" type="application/json" href="https://swaggerwords.win/en/index.json">
+<meta name="twitter:title" content="Pages">
+<meta name="twitter:description" content="Learn vocabulary with Swagger Words!"><link rel="alternate" type="application/rss&#43;xml" href="https://swaggerwords.win/en/page/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9206135835124064" crossorigin="anonymous"></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -229,7 +228,7 @@ c43 0 87 -25 110 -63 17 -27 20 -50 20 -157 0 -79 -5 -134 -13 -149 -23 -45
         
         
         
-        <li  class='current' >
+        <li >
             <a href='/en/' >
                 
                 
@@ -376,131 +375,33 @@ c43 0 87 -25 110 -63 17 -27 20 -50 20 -157 0 -79 -5 -134 -13 -149 -23 -45
 
 
             <main class="main full-width">
-    
-    
-    
-    
+    <header>
+        <h3 class="section-title">
+            
+                Section
+            
+        </h3>
 
-    <style>
-         
-        .search-container {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;  
-            height: 68vh;  
-            bottom: 5em;
-            margin-bottom: 5.5em;
-            text-align: center;
-        }
-
-        .search-icon {
-            display: flex;
-            align-items: center;  
-            font-size: 3.3rem;  
-            margin-bottom: 100px;  
-            justify-content: center;
-            color: #ecf0f1;
-        }
-
-        .search-icon img {
-            max-width: 85px; 
-            max-height: 85px; 
-            margin-right: 10px;
-        }
-
-
-        #random-post {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin-top: 100px;
-        }
-
-        #random-post h3 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-        }
-
-        #random-post p {
-            font-size: 1rem;
-            margin-bottom: 10px;
-        }
-
-        #random-post a {
-            font-size: 1rem;
-            text-decoration: none;
-        }
-
-    </style>
-
-    <section class="search-container">
-        <div class="search-icon">
-            <div class="logo-container">
-                <img src="https://swaggerwords.win/search.png" alt="Search Logo">
-            </div>
-            <div class="title-container">
-                SWAGTIONARY
-            </div>
-        </div><form action="/en/search/" class="search-form widget">
-                <p>
-                    <label>Search</label>
-                    <input name="keyword" required placeholder="Type something..." />
+        <div class="section-card">
+            <div class="section-details">
+                <h3 class="section-count">1 page</h3>
+                <h1 class="section-term">Pages</h1>
                 
-                    <button title="Search">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-                    </button>
-                </p>
-            </form>
-        <div id="random-post">
+            </div>
+        </div>
+    </header>
+    
+    <section class="article-list--compact">
+        
+            <article>
+    <a href="/en/search/">
+        <div class="article-details">
+            <h2 class="article-title">Search</h2>
             
         </div>
-        <script>
-            
-            function getPosts() {
-                
-                var xhr = new XMLHttpRequest();
-                
-                xhr.open("GET", "/index.json");
-                
-                xhr.responseType = "json";
-                
-                xhr.onload = function() {
-                    
-                    if (xhr.status == 200) {
-                        
-                        var posts = xhr.response;
-                        
-                        var randomPost = posts[Math.floor(Math.random() * posts.length)];
-                        
-                        var randomPostDiv = document.getElementById("random-post");
-                        
-                        var title = document.createElement("h3");
-                        
-                        title.textContent = "🎲" + randomPost.title;
-                        var link = document.createElement("a");
-                        link.href = randomPost.url;
-                        link.appendChild(title);
-                        randomPostDiv.appendChild(link);
-                        var summary = document.createElement("p");
-                        summary.textContent = randomPost.summary;
-                        randomPostDiv.appendChild(summary);
-                    }
-                };
-                
-                xhr.send();
-            }
+    </a>
+</article>
         
-            
-            getPosts();
-        </script>        
-
     </section><footer class="site-footer">
     <section class="copyright">
         &copy; 
@@ -518,6 +419,7 @@ c43 0 87 -25 110 -63 17 -27 20 -50 20 -157 0 -79 -5 -134 -13 -149 -23 -45
         
     </section>
 </footer>
+
 
             </main>
         </div>
