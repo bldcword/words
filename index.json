@@ -1,11 +1,12 @@
 [{
-        "title": "correspondent",
-        "url": "https://swaggerwords.win/zh-hans/correspondent/"
-      },{
-        "title": "precedent",
-        "url": "https://swaggerwords.win/zh-hans/precedent/"
-      },{
-        "title": "surrender",
-        "url": "https://swaggerwords.win/zh-hans/surrender/"
-      }]
+      "title": "correspondent",
+      "url": "https://swaggerwords.win/zh-hans/correspondent/","image_url": ["/img/correspondent.webp"]
+    },{
+      "title": "precedent",
+      "url": "https://swaggerwords.win/zh-hans/precedent/","image_url": ["/img/precedent.webp"]
+    },{
+      "title": "surrender",
+      "url": "https://swaggerwords.win/zh-hans/surrender/","image_url": ["/img/surrender.webp"]
+    }]
+
   
