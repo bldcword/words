@@ -19,6 +19,46 @@
                 href="https://swaggerwords.win/en/"
                 />
   </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep01/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep02/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep03/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep04/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep05/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep06/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep07/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep08/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep09/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep10/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep11/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep12/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep13/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep14/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep15/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep16/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep17/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep18/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep19/</loc>
+  </url><url>
+    <loc>https://swaggerwords.win/en/the-virgin-of-the-sun-ep20/</loc>
+  </url><url>
     <loc>https://swaggerwords.win/en/page/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +74,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://swaggerwords.win/en/page/"
+                />
+  </url><url>
+    <loc>https://swaggerwords.win/en/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://swaggerwords.win/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swaggerwords.win/en/post/"
                 />
   </url><url>
     <loc>https://swaggerwords.win/en/search/</loc>
@@ -69,5 +121,7 @@
                 hreflang="en"
                 href="https://swaggerwords.win/en/tags/"
                 />
+  </url><url>
+    <loc>https://swaggerwords.win/en/tags/the-virgin-of-the-sun/</loc>
   </url>
 </urlset>

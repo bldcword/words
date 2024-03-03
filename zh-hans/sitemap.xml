@@ -57,6 +57,16 @@
                 />
   </url><url>
     <loc>https://swaggerwords.win/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swaggerwords.win/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://swaggerwords.win/post/"
+                />
   </url><url>
     <loc>https://swaggerwords.win/zh-hans/pragmatic/</loc>
   </url><url>
