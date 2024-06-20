@@ -1,99 +1,21 @@
 [{
-      "title": "#01 Dedication and Introductory - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep01/","image_url": []
-    },{
-      "title": "#01 Preface - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep01/","image_url": []
-    },{
-      "title": "#02 Chapter 1 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep02/","image_url": []
-    },{
-      "title": "#02 The Sword and the Ring - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep02/","image_url": []
-    },{
-      "title": "#03 Chapter 2 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep03/","image_url": []
-    },{
-      "title": "#03 The Lady Blanche - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep03/","image_url": []
-    },{
-      "title": "#04 Chapter 3 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep04/","image_url": []
-    },{
-      "title": "#04 Hubert Comes to London - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep04/","image_url": []
-    },{
-      "title": "#05 Chapter 4 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep05/","image_url": []
-    },{
-      "title": "#05 Kari - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep05/","image_url": []
-    },{
-      "title": "#06 Chapter 5 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep06/","image_url": []
-    },{
-      "title": "#06 The Coming of Blanche - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep06/","image_url": []
-    },{
-      "title": "#07 Chapter 6 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep07/","image_url": []
-    },{
-      "title": "#07 Marriage and After - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep07/","image_url": []
-    },{
-      "title": "#08 Book 2 Ch 1 The New World - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep08/","image_url": []
-    },{
-      "title": "#08 Chapter 7 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep08/","image_url": []
-    },{
-      "title": "#09 Book 2 Ch 2 The Rocky Isle - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep09/","image_url": []
-    },{
-      "title": "#09 Chapter 8 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep09/","image_url": []
-    },{
-      "title": "#10 Book 2 Ch 3 The Daughter of the Moon - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep10/","image_url": []
-    },{
-      "title": "#10 Chapter 9 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep10/","image_url": []
-    },{
-      "title": "#11 Book 2 Ch 4 The Oracle of Rimac - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep11/","image_url": []
-    },{
-      "title": "#11 Chapter 10 - Memoirs of the Lady Hester Stanhope, Vol I",
-      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-i-ep11/","image_url": []
-    },{
-      "title": "#12 Book 2 Ch 5 Kari Goes - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep12/","image_url": []
-    },{
-      "title": "#13 Book 2 Ch 6 The Choice - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep13/","image_url": []
-    },{
-      "title": "#14 Book 2 Ch 7 The Return of Kari - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep14/","image_url": []
-    },{
-      "title": "#15 Book 2 Ch 8 The Field of Blood - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep15/","image_url": []
-    },{
-      "title": "#16 Book 2 Ch 9 Kari Comes to his Own - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep16/","image_url": []
-    },{
-      "title": "#17 Book 2 Ch 10 The Great Horror - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep17/","image_url": []
-    },{
-      "title": "#18 Book2 Ch 11 The House of Death - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep18/","image_url": []
-    },{
-      "title": "#19 Book 2 Ch 12 The Fight to the Death - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep19/","image_url": []
-    },{
-      "title": "#20 Book 2 Ch 13 The Kiss of Quilla - The Virgin of the Sun",
-      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-ep20/","image_url": []
+      "title": "A Complete Account Of The Settlement At Port Jackson By Watkin Tench",
+      "url": "https://swaggerwords.win/en/a-complete-account-of-the-settlement-at-port-jackson-by-watkin-tench/","image_url": []
     },{
       "title": "Little Johannes By Frederik van Eeden",
       "url": "https://swaggerwords.win/en/little-johannes-by-frederik-van-eeden/","image_url": []
+    },{
+      "title": "Memoirs Of The Lady Hester Stanhope, As Related By Herself In Conversations With Her Physician, Vol. 1 By Lady Hester Stanhope",
+      "url": "https://swaggerwords.win/en/memoirs-of-the-lady-hester-stanhope-vol-1-by-lady-hester-stanhope/","image_url": []
+    },{
+      "title": "Rain Magic By Erle Stanley Gardner",
+      "url": "https://swaggerwords.win/en/rain-magic-by-erle-stanley-gardner/","image_url": []
+    },{
+      "title": "Saboteurs On The River By Mildred A. Wirt",
+      "url": "https://swaggerwords.win/en/saboteurs-on-the-river-by-mildred-a-wirt/","image_url": []
+    },{
+      "title": "The Case With Nine Solutions By J. J. Connington",
+      "url": "https://swaggerwords.win/en/the-case-with-nine-solutions-by-j-j-connington/","image_url": []
     },{
       "title": "The Crooked Cross By Charles J. Dutton",
       "url": "https://swaggerwords.win/en/the-crooked-cross-by-charles-j-dutton/","image_url": []
@@ -101,8 +23,17 @@
       "title": "The Cyberene By Rog Phillips",
       "url": "https://swaggerwords.win/en/the-cyberene/","image_url": []
     },{
+      "title": "The Riddle And Other Stories By Walter De la Mare",
+      "url": "https://swaggerwords.win/en/the-riddle-and-other-stories-by-walter-de-la-mare/","image_url": []
+    },{
+      "title": "The Strange Case Of Miss Annie Spragg By Louis Bromfield",
+      "url": "https://swaggerwords.win/en/the-strange-case-of-miss-annie-spragg-by-louis-bromfield/","image_url": []
+    },{
       "title": "The Town Before You By Hannah Cowley",
       "url": "https://swaggerwords.win/en/the-town-before-you-by-hannah-cowley/","image_url": []
+    },{
+      "title": "The Virgin Of The Sun By H. Rider Haggard",
+      "url": "https://swaggerwords.win/en/the-virgin-of-the-sun-by-h-rider-haggard/","image_url": []
     }]
 
   
